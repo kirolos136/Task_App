@@ -5,6 +5,11 @@ It allows users to add, search, mark as complete, delete tasks, and view task de
 
 ---
 
+## 🔗 Live Demo
+👉 [Click here to open the app](https://kirolos136.github.io/Task_App/)  
+
+---
+
 ## 📌 Features
 - **Add Todo** – Create new tasks with validation to prevent empty entries.  
 - **Mark as Completed** – Easily mark tasks as done with visual distinction.  
@@ -54,6 +59,7 @@ src/
  ├── App.js         # Main app logic
  ├── index.js       # Entry point
 ```
+
 
 ## 📄 License
 This project is licensed under the **MIT License** — you’re free to use and modify it.
