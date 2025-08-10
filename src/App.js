@@ -8,7 +8,7 @@ import { ToDoItem } from './Components/TodoListItem';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
           <Route path="/" element={<Main/>} />
           <Route path="AddTask" element={<ToDoFrom/>}/>
